@@ -188,9 +188,8 @@ const styles = StyleSheet.create({
   logo: {
     width: 100,
     height: 100,
-    top: 70,
-    left: -370,
-
+    top: 80,
+    left: -360,
     position: "relative",
   },
 });
