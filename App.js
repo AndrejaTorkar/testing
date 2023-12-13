@@ -14,7 +14,7 @@ https://reactnative.dev/docs/style
 /* Improvements:
  * code is formatted with Prettier
  * this "Name Badge" is animated - please look at the short video (however, a screenshot is also 
- * attached. See for_grading folder)
+ * attached)
  * to the red background there is added a gif of flickering stars
  * text has added font families Courier New and Helvetica
  * the name box now has opacity
